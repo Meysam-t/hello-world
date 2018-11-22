@@ -1,2 +1,2 @@
 # hello-world
-I just created a GitHub account
+I just created my GitHub account
